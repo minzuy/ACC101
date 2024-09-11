@@ -1,0 +1,15 @@
+Cash's Flow
+Operating activities : trả lương nv,văn phòng phẩm, nguyên vật liệu và nhân công,tiền từ bán hàng và dịch vụ, ngắn hạn
+Investing activities : tài sản, trang thiết bị dài hạn (equipment)
+Financing : lquan tới vốn của cty
+
+Income statement : 
+		Total REVENUE - Expense(...)
+Statement of owner capital : 
+		Owner invest + Net income - Owner withdraw (at the end of the period)
+Balance sheet : 
+		ASSETS == LIABILITIES(...) + OWNER's CAPITAL (at the end of the period)
+Statement of Cash's Flow : 
+		Relate to CASH(...) => Net change at the end
+
+1-8 A (P.70)
