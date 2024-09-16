@@ -13,3 +13,10 @@ Statement of Cash's Flow :
 		Relate to CASH(...) => Net change at the end
 
 1-8 A (P.70)
+
+
+dept ratio = total assets / total dept
+
+asset => balance sheet
+nợ => balance sheet (unearned revenue)
+prepaid insurance : ASSETS
