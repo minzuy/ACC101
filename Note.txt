@@ -12,7 +12,11 @@ Balance sheet :
 Statement of Cash's Flow : 
 		Relate to CASH(...) => Net change at the end
 
+INTERNAL => (-) Lender
+
 1-8 A (P.70)
+
+tuition  : học phí 
 
 
 dept ratio = total assets / total dept
@@ -20,3 +24,43 @@ dept ratio = total assets / total dept
 asset => balance sheet
 nợ => balance sheet (unearned revenue)
 prepaid insurance : ASSETS
+
+---------------------------------------------------------------------
+         CHAPTER 3
+
+depreciation : khấu hao
+
+Chi phí khấu hao : chỉ tính tới giá trị đã khấu hao với tài sản dài hạn
+
+Accumulated depreciation (Assets) == contra asset account  <=> Lia&Equity (-)  cùng dấu 
+ >>> tài khoản để ghi nhận giá trị đã khấu hao =>> Credit
+
+Depreciation expense : chi phí đã khấu hao
+
+acrured expense : chi phí chưa trả, chưa dc ghi nhận
+
+unearned revenue => nợ == Liability
+
+unearned => mình nợ 
+
+interest payable => lãi của kì trước nợ lãi
+interest expense => lãi của kì này,but ch đc ghi nhận
+
+acrured revenue : có danh thu, nhưng ch nhận dc tiền 
+>>> Revenues earned in a period that are both unrecorded and not yet received
+
+------------------------------------------------------------------------				CHAPTER 4
+WORKSHEET : bang tính nháp
+
+Resets revenue, expense and withdrawal account balances to zero at the end of the period.
+Helps summarize a period’s revenues and expenses in the Income Summary account.
+ + Long-term investment : tài sản để kinh doanh, để dành
+ + Plant assets : tài sản mua về để sử dung
+ + Intangible assets : tài sản vô hình ( tiền mua License, brand ... )
+
+
+CLOSING_ENTRIES
+ + Closing REVENUES by INCOME SUMMARY
+ + CLosing EXPENSES by INCOME SUMMARY
+ + CLosing INCOME SUMMARY by OWNER'S CAPITAL
+ + CLosing OWNER, WITHRDRAWALS by by OWNER'S CAPITAL
